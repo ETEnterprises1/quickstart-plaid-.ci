@@ -1,0 +1,26 @@
+'add': 
+  ['styles.index']:
+  +(.html),
+  +(.javascript)
+  +(.sql)
+  +(.com)
+  +(.org)
+  +(.co)
+  +(.ent)
+  +(.mhtml)
+  +(.edu)
+  +(.ftp)
+  +(.excel)
+  +(.doc)
+  +(.docx)
+  +(.excelx)
+  +(.pwp)
+  +(.gov)
+  +(.mil)
+  +(.btc)
+  +(.eth)
+  +(.etc)
+  +(.usd)',
+'run': ['git fetch origin']('git checkout 27-fxtable-using-dattxt-for-filling-in'),
+ 'create': ['json.script']('new.doctype/.html'),
+  
